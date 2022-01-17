@@ -1,4 +1,4 @@
-# Heart disease prediction using Machine learning
+# Heart Disease Prediction using Machine Learning
 This model is developed by taking available data-sets and trained the model accordingly to predict whether the patient has a positive response or negative response to heart disease.
 
 # Machine learning algorithms are often categorized as follows
@@ -42,6 +42,22 @@ The project involves analysis of a heart disease using patient’s dataset with 
 The belief is that only a marginal success is achieved in the creation of a predictive model of heart disease of a patient and hence there is a need for computational and more complex models to increase the accuracy of predicting the early onset of heart disease. In this project, the model has been trained as well as tested to get higher accuracy which will help in achieving success for the model that has been developed.
 Many possible improvements could be explored to improve the scalability and accuracy of this prediction model and further thinking can make this model more flexible by training large amount of dataset so that accuracy of this model will be more relevant for the application.
 
+# Taking Input for Prediction
+![Taking Input](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/Taking%20input%20for%20Prediction.png?raw=true "Optional Title")
 
+# Positive response
+![Positive response](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/Positive%20response.png?raw=true "Optional Title")
+
+# Negative response
+![Negative response](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/Negative%20response.png?raw=true "Optional Title")
+
+# Patient's Age Graph
+![Age plots](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/AgePlots.png?raw=true "Optional Title")
+
+# Patient's Blood pressure Graph
+![Patient's Blood pressure Graph](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/BloodPressurePlot.png?raw=true "Optional Title")
+
+# Patient's Cholestrol Graph
+![Patient's Cholestrol Graph](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/CholestrolLevelsPlot.png?raw=true "Optional Title")
 
 
