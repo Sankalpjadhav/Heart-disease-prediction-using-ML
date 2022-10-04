@@ -44,6 +44,7 @@ Many possible improvements could be explored to improve the scalability and accu
 
 # Taking Input for Prediction
 ![Taking Input](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/Taking%20input%20for%20Prediction.png?raw=true "Optional Title")
+![Taking Input](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/Taking%20input%20for%20input.png?raw=true "Optional Title")
 
 # Positive response
 ![Positive response](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/Positive%20response.png?raw=true "Optional Title")
