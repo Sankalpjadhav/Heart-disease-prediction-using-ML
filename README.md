@@ -43,8 +43,7 @@ The belief is that only a marginal success is achieved in the creation of a pred
 Many possible improvements could be explored to improve the scalability and accuracy of this prediction model and further thinking can make this model more flexible by training large amount of dataset so that accuracy of this model will be more relevant for the application.
 
 # Taking Input for Prediction
-![Taking Input](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/Taking%20input%20for%20Prediction.png?raw=true "Optional Title")
-![Taking Input](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/Taking%20input%20for%20input.png?raw=true "Optional Title")
+![input](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/input.PNG?raw=true "Optional Title")
 
 # Positive response
 ![Positive response](https://github.com/Sankalpjadhav/Heart-disease-prediction-using-ML/blob/master/Positive%20response.png?raw=true "Optional Title")
